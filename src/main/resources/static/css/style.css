@@ -1,0 +1,25 @@
+/* @charset "UTF-8"; */
+
+h1 {
+	color: #936c6c; 
+}
+
+.blueStuff {
+	color: blue; 
+}
+
+.greenStuff {
+	color: green; 
+}
+
+.errorText {
+	color: red; 
+}
+/* .px-2 {
+  padding-left: ($spacer * .5) !important;
+  padding-right: ($spacer * .5) !important;
+} */
+
+.cardPaddingJonLikes {
+	padding: 3rem; 
+}
